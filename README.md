@@ -1,2 +1,1 @@
-# RockPaperScissorGame
-This is a graphical Rock, Paper, Scissors game built using Python's tkinter library. The player competes against the computer, which randomly selects its moves. The GUI displays both player's and computer's choices visually using images, and it tracks scores during the session.
+This is a rock paper scissor game with the computer using python with tkinter library. It is my first python gui project. It was for a codsoft intership.
